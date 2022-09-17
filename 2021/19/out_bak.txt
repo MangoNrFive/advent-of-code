@@ -1,0 +1,230 @@
+scanner10 -> scanner0
+diff=array([  -3, 1190,  -85])
+mapping=[[1, 1], [2, 1], [0, 1]]
+
+
+scanner16 -> scanner0
+diff=array([ 132, -101, 1110])
+mapping=[[0, -1], [2, 1], [1, 1]]
+
+
+scanner18 -> scanner0
+diff=array([   29,  -100, -1336])
+mapping=[[1, -1], [0, -1], [2, -1]]
+
+
+scanner8 -> scanner1
+diff=array([  -6,   62, 1085])
+mapping=[[1, 1], [2, 1], [0, 1]]
+
+
+scanner7 -> scanner2
+diff=array([  100, -1052,  -142])
+mapping=[[2, -1], [1, -1], [0, -1]]
+
+
+scanner8 -> scanner2
+diff=array([ -20, 1359,  -19])
+mapping=[[2, -1], [0, -1], [1, 1]]
+
+
+scanner14 -> scanner2
+diff=array([1225,  146, -155])
+mapping=[[2, -1], [0, 1], [1, -1]]
+
+
+scanner21 -> scanner2
+diff=array([  -57,   169, -1190])
+mapping=[[1, -1], [0, 1], [2, 1]]
+
+
+scanner13 -> scanner3
+diff=array([-1196,     5,    37])
+mapping=[[2, -1], [0, 1], [1, -1]]
+
+
+scanner17 -> scanner3
+diff=array([  -48,    -2, -1212])
+mapping=[[2, -1], [1, -1], [0, -1]]
+
+
+scanner28 -> scanner3
+diff=array([1181,  -54,  -46])
+mapping=[[1, 1], [0, 1], [2, -1]]
+
+
+scanner28 -> scanner4
+diff=array([1204,  105, -130])
+mapping=[[0, -1], [2, 1], [1, 1]]
+
+
+scanner11 -> scanner5
+diff=array([   53, -1296,    43])
+mapping=[[2, 1], [0, 1], [1, 1]]
+
+
+scanner27 -> scanner5
+diff=array([  38, -159, 1213])
+mapping=[[0, -1], [2, -1], [1, -1]]
+
+
+scanner31 -> scanner5
+diff=array([1228,  -45,  -95])
+mapping=[[1, 1], [2, -1], [0, -1]]
+
+
+scanner10 -> scanner6
+diff=array([-1149,   133,    -4])
+mapping=[[0, 1], [1, -1], [2, -1]]
+
+
+scanner15 -> scanner6
+diff=array([  134,    34, -1126])
+mapping=[[1, 1], [2, 1], [0, 1]]
+
+
+scanner16 -> scanner6
+diff=array([  46,   -2, 1287])
+mapping=[[1, 1], [0, 1], [2, -1]]
+
+
+scanner30 -> scanner6
+diff=array([ 143, 1358,  -36])
+mapping=[[2, -1], [0, 1], [1, -1]]
+
+
+scanner18 -> scanner7
+diff=array([1057,   94,   60])
+mapping=[[2, -1], [0, 1], [1, -1]]
+
+
+scanner20 -> scanner7
+diff=array([  26, 1227,  124])
+mapping=[[0, -1], [1, -1], [2, 1]]
+
+
+scanner24 -> scanner7
+diff=array([ -102,    81, -1188])
+mapping=[[0, 1], [1, -1], [2, -1]]
+
+
+scanner18 -> scanner9
+diff=array([ -103,   143, -1117])
+mapping=[[0, -1], [2, 1], [1, 1]]
+
+
+scanner24 -> scanner9
+diff=array([ -90, 1302,  131])
+mapping=[[1, 1], [0, -1], [2, 1]]
+
+
+scanner21 -> scanner10
+diff=array([-1260,   129,    25])
+mapping=[[2, -1], [1, 1], [0, 1]]
+
+
+scanner27 -> scanner10
+diff=array([  96, 1283, -102])
+mapping=[[2, 1], [0, 1], [1, 1]]
+
+
+scanner31 -> scanner10
+diff=array([ -18,   93, 1206])
+mapping=[[2, 1], [1, -1], [0, 1]]
+
+
+scanner15 -> scanner11
+diff=array([ -50,  -54, 1169])
+mapping=[[1, -1], [0, 1], [2, 1]]
+
+
+scanner26 -> scanner11
+diff=array([-1229,   -14,   -70])
+mapping=[[2, 1], [1, -1], [0, 1]]
+
+
+scanner32 -> scanner11
+diff=array([  -22, -1301,    37])
+mapping=[[0, -1], [2, 1], [1, 1]]
+
+
+scanner14 -> scanner12
+diff=array([1190,    2,   52])
+mapping=[[1, 1], [0, 1], [2, -1]]
+
+
+scanner19 -> scanner12
+diff=array([-161, 1142,   78])
+mapping=[[1, -1], [2, 1], [0, -1]]
+
+
+scanner23 -> scanner12
+diff=array([-1342,  -124,    97])
+mapping=[[2, 1], [0, 1], [1, 1]]
+
+
+scanner25 -> scanner13
+diff=array([ -42, 1117,  -62])
+mapping=[[2, 1], [0, 1], [1, 1]]
+
+
+scanner24 -> scanner14
+diff=array([-1279,  -115,   -63])
+mapping=[[1, 1], [0, 1], [2, -1]]
+
+
+scanner29 -> scanner14
+diff=array([ -116,   -53, -1279])
+mapping=[[1, -1], [0, -1], [2, -1]]
+
+
+scanner17 -> scanner15
+diff=array([  17, 1203,   61])
+mapping=[[0, 1], [2, 1], [1, -1]]
+
+
+scanner28 -> scanner15
+diff=array([-1149,   -26,     9])
+mapping=[[2, 1], [1, -1], [0, 1]]
+
+
+scanner31 -> scanner15
+diff=array([  -84, -1301,     6])
+mapping=[[0, -1], [2, 1], [1, 1]]
+
+
+scanner25 -> scanner17
+diff=array([-132,   35, 1086])
+mapping=[[0, 1], [2, -1], [1, 1]]
+
+
+scanner26 -> scanner17
+diff=array([  23, 1300,  -24])
+mapping=[[1, -1], [0, -1], [2, -1]]
+
+
+scanner21 -> scanner18
+diff=array([-1315,   -97,     9])
+mapping=[[0, -1], [1, -1], [2, 1]]
+
+
+scanner22 -> scanner20
+diff=array([   72,   -41, -1170])
+mapping=[[1, -1], [2, -1], [0, 1]]
+
+
+scanner24 -> scanner22
+diff=array([ -142,   -56, -1187])
+mapping=[[2, -1], [0, 1], [1, -1]]
+
+
+scanner33 -> scanner27
+diff=array([1156,   96,    0])
+mapping=[[0, 1], [2, 1], [1, -1]]
+
+
+scanner32 -> scanner28
+diff=array([-1141,     2,   -98])
+mapping=[[1, 1], [0, -1], [2, 1]]
+
+
