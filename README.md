@@ -1,17 +1,289 @@
 ## Completion
 
-<pre>
-              1111111111222222
-     1234567890123456789012345
-2015 &#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;
-2016 &#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;
-2017 &#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;
-2018 &#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;
-2019 &#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;
-2020 &#9733;&#9733;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;&#8901;
-2021 &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#8901;&#8901;&#8901;
-<!--|   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  17  |  18  |  19  |  20  |  21  |  22  |  23  |  24  |  25  |--> 
-&#8901; -> <b>no</b> puzzle solved
-&#9734; -> <b>first</b> puzzle solved
+<table style="font-family: monospace, monospace;">
+    <tr style="border: none;">
+        <td style="border: none;"></td>
+        <td style="border: none;">&#8199;1</td>
+        <td style="border: none;">&#8199;2</td>
+        <td style="border: none;">&#8199;3</td>
+        <td style="border: none;">&#8199;4</td>
+        <td style="border: none;">&#8199;5</td>
+        <td style="border: none;">&#8199;6</td>
+        <td style="border: none;">&#8199;7</td>
+        <td style="border: none;">&#8199;8</td>
+        <td style="border: none;">&#8199;9</td>
+        <td style="border: none;">10</td>
+        <td style="border: none;">11</td>
+        <td style="border: none;">12</td>
+        <td style="border: none;">13</td>
+        <td style="border: none;">14</td>
+        <td style="border: none;">15</td>
+        <td style="border: none;">16</td>
+        <td style="border: none;">17</td>
+        <td style="border: none;">18</td>
+        <td style="border: none;">19</td>
+        <td style="border: none;">20</td>
+        <td style="border: none;">21</td>
+        <td style="border: none;">22</td>
+        <td style="border: none;">23</td>
+        <td style="border: none;">24</td>
+        <td style="border: none;">25</td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2015</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2015</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2015</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2015</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2015</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2020</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2021</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#10032;</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2015</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">2023</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;">&#8199;&#10032;</td>
+        <td style="border: none;"></td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;">&#8199;&#9733;</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+</table>
+
+<div style="font-family: monospace, monospace;">
+&#10032; -> <b>first</b> puzzle solved<br>
 &#9733; -> <b>both</b> puzzles solved
-</pre>
+</div>
