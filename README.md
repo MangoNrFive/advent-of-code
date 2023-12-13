@@ -20,10 +20,10 @@
         <td></td>
         <td></td>
         <td></td>
+        <td>&#9733;</td>
+        <td>&#9733;</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>&#9733;</td>
     </tr>
     <tr>
         <td>&#8199;2</td>
@@ -32,8 +32,8 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>&#9733;</td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -45,7 +45,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -57,7 +57,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -69,9 +69,9 @@
         <td></td>
         <td></td>
         <td></td>
+        <td>&#9733;</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>&#10032;</td>
     </tr>
     <tr>
         <td>&#8199;6</td>
@@ -81,7 +81,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -93,9 +93,9 @@
         <td></td>
         <td></td>
         <td></td>
+        <td>&#9733;</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>&#9733;</td>
     </tr>
     <tr>
         <td>&#8199;8</td>
@@ -105,9 +105,9 @@
         <td></td>
         <td></td>
         <td></td>
+        <td>&#9733;</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>&#9733;</td>
     </tr>
     <tr>
         <td>&#8199;9</td>
@@ -117,7 +117,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -129,7 +129,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -141,7 +141,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -153,7 +153,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -165,7 +165,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -177,7 +177,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -189,7 +189,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -201,7 +201,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -213,7 +213,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -225,7 +225,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -237,7 +237,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -249,7 +249,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -261,7 +261,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#9733;</td>
         <td></td>
         <td></td>
     </tr>
@@ -273,7 +273,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>&#10032;</td>
         <td></td>
         <td></td>
     </tr>
@@ -310,8 +310,8 @@
         <td></td>
         <td></td>
         <td></td>
-        <td>&#10032;</td>
-        <td>&#9733;</td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
