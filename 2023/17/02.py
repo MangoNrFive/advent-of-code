@@ -40,4 +40,4 @@ while True:
 	if np.array_equal(heat_loss_map, heat_loss_map_last):
 		break
 
-print(np.min(heat_loss_map, axis=(2, 3))[-2, -2])
+print(np.min(heat_loss_map[:, :, 4:, :], axis=(2, 3))[-2, -2])
